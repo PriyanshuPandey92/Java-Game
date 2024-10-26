@@ -2,6 +2,9 @@
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
+RUN GAME FRAME FILE TO START THE GAME. 
+(STILL WORKINK ON SOME NEW FEATURES)
+
 ## Folder Structure
 
 The workspace contains two folders by default, where:
